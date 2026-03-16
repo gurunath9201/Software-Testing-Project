@@ -1,4 +1,3 @@
-# Software-Testing-Project
 # Software Testing Project – Mozilla Firefox Browser
 
 ## Project Overview
